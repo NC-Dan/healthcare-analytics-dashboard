@@ -1,3 +1,4 @@
+![Dashboard Preview](KHA_dashboard.png)
 # Healthcare Analytics — Patient Admission, Cost & Risk Dashboard
 
 **Analyst:** Duncan Chicho (NC-Dan) | Nairobi, Kenya | Open to Remote  
