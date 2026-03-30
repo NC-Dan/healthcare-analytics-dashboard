@@ -40,5 +40,7 @@ Healthcare Dataset by Prasad Patil — Kaggle.com
 
 ## 👤 Author
 **NC-Dan (Duncan Chicho)** | Data Analyst | Open to Remote Contribution
-📍 Nairobi, Kenya
-🔗 [Kenya Banking Risk Dashboard](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
+- 📍 Nairobi, Kenya
+- 🔗[Kenya Banking Risk Dashboard](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
+- 🔗[global-superstore-sales-dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
+- 🔗 [www.linkedin.com/in/duncan-analytics](https://www.linkedin.com/in/duncan-analytics/)
