@@ -1,8 +1,8 @@
 # Healthcare Analytics — Patient Admission, Cost & Risk Dashboard
 
-**Analyst:** Duncan Chicho (NC-Dan) | Nairobi, Kenya | Open to Remote  
+**Analyst:** Duncan Chicho (NC-Dan) | Nairobi, Kenya | Open to Remote Contribution  
 **Level:** Intermediate-Advanced Excel Analyst  
-**Dataset:** Healthcare Dataset by Prasad Patil — Kaggle.com  
+**Dataset:** Healthcare Dataset by Prasad Patil — [Kaggle.com](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)  
 **Records:** 40,235 unique patient records (55,500 raw — 27.5% duplicates removed)
 
 ## Tools & Skills Used
@@ -21,8 +21,14 @@
 5. 27.5% duplicate rate identified and removed during cleaning
 
 ## Screenshots
+- Dashboard
 ![Dashboard](KHA_dashboard.png)
+- Array Analysis
 ![Array Analysis](array_analysis.png)
+- Star Schema
+![Star Schema](star_schema.png)
+- Readme (Screenshot)
+![Readme Sheet](readme_sheet.png)
 
 ## Project Architecture
 | Sheet | Purpose |
@@ -35,12 +41,8 @@
 | Dashboard | Executive dashboard |
 | README | Project documentation |
 
-## 📊 Data Source
-Healthcare Dataset by Prasad Patil — Kaggle.com 
 
-## 👤 Author
-**NC-Dan (Duncan Chicho)** | Data Analyst | Open to Remote Contribution
-- 📍 Nairobi, Kenya
+## | Other Analyst Projects |
 - 🔗[Kenya Banking Risk Dashboard](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
 - 🔗[global-superstore-sales-dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
-- 🔗 [www.linkedin.com/in/duncan-analytics](https://www.linkedin.com/in/duncan-analytics/)
+- 🔗[www.linkedin.com/in/duncan-analytics](https://www.linkedin.com/in/duncan-analytics/)
