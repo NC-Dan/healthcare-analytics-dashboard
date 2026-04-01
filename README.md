@@ -42,7 +42,7 @@
 | README | Project documentation |
 
 
-## | Other Analyst Projects |
+## | Other Analyst Projects |  
+- 🔗[Global-superstore-sales-dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
 - 🔗[Kenya Banking Risk Dashboard](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
-- 🔗[global-superstore-sales-dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
 - 🔗[www.linkedin.com/in/duncan-analytics](https://www.linkedin.com/in/duncan-analytics/)
