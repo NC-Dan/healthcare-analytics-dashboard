@@ -1,6 +1,6 @@
 # Healthcare Analytics — Patient Admission, Cost & Risk Dashboard
 
-**Analyst:** Duncan Chicho (NC-Dan) | Nairobi, Kenya | Open to Remote Contribution  
+**Analyst:** Duncan N Chicho (NC-Dan) | Open to Remote Contribution  
 **Level:** Intermediate-Advanced Excel Analyst  
 **Dataset:** Healthcare Dataset by Prasad Patil — [Kaggle.com](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)  
 **Records:** 40,235 unique patient records (55,500 raw — 27.5% duplicates removed)
@@ -42,8 +42,11 @@
 | README | Project documentation |
 
 
-## | Other Analyst Projects |  
+## | Other Excel Analyst Projects |  
 - 🔗[Global-superstore-sales-dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
 - 🔗[Kenya Banking Risk Dashboard](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
+---
+## | Microsoft SQL Server Analyst Projects |  
+- 🔗[ibm-hr-attrition-sql-analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
 ---
 - Connect with me on Linkedin🔗[www.linkedin.com/in/duncanalyst](https://www.linkedin.com/in/duncanalyst/?skipRedirect=true)
