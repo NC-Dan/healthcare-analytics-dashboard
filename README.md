@@ -43,15 +43,15 @@
 
 
 ## | Other Excel Analyst Projects |  
-- 🔗[Global-superstore-sales-dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
-- 🔗[Kenya Banking Risk Dashboard](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
+- 🔗[Global-Superstore-Sales-Analysis-Dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
+- 🔗[Kenya Banking Risk Analysis Dashboard](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
 ---
 ## | Microsoft SQL Server Analyst Projects |  
-- 🔗[olist-ecommerce-sql-analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
-- 🔗[ibm-hr-attrition-sql-analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
-- 🔗[Credit-card-fraud-detection-sql](https://github.com/duncanalyst/credit-card-fraud-detection-sql)
+- 🔗[Olist-Ecommerce-SQL-Analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
+- 🔗[IBM-HR-Attrition-SQL-Analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
+- 🔗[Credit-Card-Fraud-Detection-SQL](https://github.com/duncanalyst/credit-card-fraud-detection-sql)
 ---
 ## | PowerBI Analyst Projects |  
-- 🔗[Olist-ecommerce-powerbi-analysis](https://github.com/duncanalyst/Olist-ecommerce-powerbi)
+- 🔗[Olist-Ecommerce-PowerBI-Analysis](https://github.com/duncanalyst/Olist-ecommerce-powerbi)
 ---
 - Connect with me on Linkedin🔗[www.linkedin.com/in/duncanalyst](https://www.linkedin.com/in/duncanalyst/?skipRedirect=true)
